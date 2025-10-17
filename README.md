@@ -16,10 +16,12 @@ Código ordenado
 
 ## 3 Content Assist
 Este parámetro lo que hace es ajustar el retardo a la hora de usar el autocompletado, si está en 0, las sugerencias apareceran de manera automática y sin retardo, mejora la productividad porque permite que el autocompletado sea más rápido y ágil.
-![Captura3](03_content_assist.jpg)
+
+![Captura3](capturas/03_content_assist.jpg)
 
 ## 4 Syntax Coloring
 Es importante tener un buen contraste visual ya que permite una legibilidad más sencilla a la vez que resulta más sencillo la distinción entre los diferentes elementos del código.
+
 ![Captura4](capturas/04_syntax_coloring.jpg)
 
 ## 5 Mark Occurrences
@@ -27,16 +29,17 @@ La diferencia entre Mark Occurrences y Search References es que el primero resal
 
 Captura Mark Occurrences
 
-![Captura5](05_mark_occurrences.jpg)
+![Captura5](capturas/05_mark_occurrences.jpg)
 
 Captura Search References
 
-![Captura5](05_mark_occurrences2.jpg)
+![Captura5](capturas/05_mark_occurrences2.jpg)
 
 ## 6 Typing
 Ayudan a reducir los errores ya que evitan despistes de los programadores a la hora del cierre de bloques de código, comillas o paréntesis.
-![Captura6](06_typing.jpg)
+
+![Captura6](capturas/06_typing.jpg)
 
 ## 7 Templates
 
-![Captura7](07_templates.jpg)
+![Captura7](capturas/07_templates.jpg)

@@ -6,11 +6,11 @@ Esta opción de eclipse nos remarca las llaves de un determinado bloque al hacer
 ## 2 Save Actions
 La opción Format source code nos permite ordenar el código de manera completa al guardar el archivo y el organize imports nos ordena los imports realizados y elimina los que no se estén usando.
 
-Código desordenado
+Código desordenado:
 
 ![Captura2](capturas/02_save_actions.jpg)
 
-Código ordenado
+Código ordenado:
 
 ![Captura2-1](capturas/02_save_actions2.jpg)
 
@@ -41,5 +41,6 @@ Ayudan a reducir los errores ya que evitan despistes de los programadores a la h
 ![Captura6](capturas/06_typing.jpg)
 
 ## 7 Templates
+Las plantillas son fragmentos de código que se pueden insertar mediante la escritura, son útiles ya que aceleran la escritura del código y evitan tener que repetir código anteriormente escrito.
 
 ![Captura7](capturas/07_templates.jpg)

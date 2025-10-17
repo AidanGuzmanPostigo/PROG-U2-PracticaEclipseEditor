@@ -45,3 +45,6 @@ Ayudan a reducir los errores ya que evitan despistes de los programadores a la h
 Las plantillas son fragmentos de código que se pueden insertar mediante la escritura, son útiles ya que aceleran la escritura del código y evitan tener que repetir código anteriormente escrito.
 
 ![Captura7](capturas/07_templates.jpg)
+
+## Reflexión final
+Bajo mi punto de vista todas estas herramientas son bastante útiles y cómodas de usar a la hora de escribir código, personalmente la que me parece más útil es Matching Bracket o Templates, ya que cuando tengo bloques dentro de bloques es complicado saber que llave pertenece a cada bloque, también me parecen útiles las plantillas, ya que me permiten programar de una manera más cómoda y evitar que tenga que repetir muchas veces el mismo código.
